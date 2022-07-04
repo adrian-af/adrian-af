@@ -7,5 +7,5 @@
     <img src="https://img.shields.io/badge/HTML%20&%20CSS-blue">
     <img src="https://img.shields.io/badge/Java-red">
     <img src="https://img.shields.io/badge/jQuery-fuchsia">
-    <img src="https://img.shields.io/badge/C++-darkblue>
+    <img src="https://img.shields.io/badge/C++-darkblue">
 </p>
