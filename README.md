@@ -3,8 +3,7 @@
 <p>
     <h2>❔About</h2>
     <ul>
-        <li>🙋‍♂️I'm Adrián Fernández</li>
-        <li>Pronouns: he/him</li>
+        <li>🙋‍♂️I'm Adrián Fernández (he/him)</li>
         <li>📍Madrid, Spain</li>
         <li>💻Full Stack Web Developer</li>
         <li>Currently studying a Full Stack Bootcamp with La Rueca</li>
