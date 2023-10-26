@@ -6,8 +6,8 @@
         <li>🙋‍♂️I'm Adrián Fernández</li>
         <li>📍Madrid, Spain</li>
         <li>💻Full Stack Web Developer</li>
-        <li>Currently studying a Full Stack Bootcamp with La Rueca</li>
-        <li>Some things I like: <dfn title="reading">📚</dfn> <dfn title="cats">🐱</dfn> <dfn title="biking">🚴</dfn> <dfn title="DIY and woodworking">⚒</dfn> <dfn title="music">🎶</dfn> <dfn title="jigsaws and puzzles">🧩</dfn> <dfn title="gardening">🌱</dfn> <dfn title="coffee">☕</dfn> <dfn title="traveling">✈</dfn>
+        <li>Currently studying in IES Clara del Rey</li>
+        <li>Some things I like: <dfn title="reading">📚</dfn> <dfn title="cats">🐱</dfn> <dfn title="biking">🚴</dfn> <dfn title="DIY">⚒</dfn> <dfn title="music">🎶</dfn> <dfn title="jigsaws">🧩</dfn> <dfn title="gardening">🌱</dfn> <dfn title="coffee">☕</dfn> <dfn title="traveling">✈</dfn>
         </li>
     </ul>
 </p>
